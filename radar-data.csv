@@ -1,0 +1,111 @@
+name,ring,quadrant,isNew
+Allure TestOps,hold,Techniques & Tools,FALSE
+Ambari,adopt,Platform & Infrastructure,TRUE
+Ansible,adopt,Platform & Infrastructure,TRUE
+APM Elastic,adopt,Platform & Infrastructure,TRUE
+AppBundle,adopt,Techniques & Tools,TRUE
+Appium,adopt,Platform & Infrastructure,FALSE
+AsyncDisplayKit/Texture,assess,Techniques & Tools,TRUE
+AutoLayout,hold,Techniques & Tools,TRUE
+Bamboo,hold,Techniques & Tools,TRUE
+Bash,adopt,Languages & Frameworks,FALSE
+Bitbucket,hold,Techniques & Tools,TRUE
+BorgBackup,adopt,Platform & Infrastructure,TRUE
+Centos 7,adopt,Platform & Infrastructure,FALSE
+Centos 8,trial,Platform & Infrastructure,TRUE
+CentrifugeiOS,adopt,Techniques & Tools,TRUE
+Centrifugo,adopt,Techniques & Tools,TRUE
+CheckStyle,adopt,Techniques & Tools,TRUE
+Clean Architecture,adopt,Techniques & Tools,TRUE
+ClickHouse,adopt,Data Management,TRUE
+Confluence,adopt,Techniques & Tools,TRUE
+CoreData,adopt,Data Management,TRUE
+Cucumber,adopt,Techniques & Tools,FALSE
+Dagger 2 Android,adopt,Languages & Frameworks,TRUE
+Docker,adopt,Platform & Infrastructure,TRUE
+Elastic,hold,Data Management,TRUE
+ELK,adopt,Platform & Infrastructure,TRUE
+Envoy,adopt,Platform & Infrastructure,TRUE
+etcd,adopt,Data Management,TRUE
+Filebeat,adopt,Platform & Infrastructure,FALSE
+Firebase,adopt,Platform & Infrastructure,TRUE
+Firebase Performance,adopt,Techniques & Tools,TRUE
+FlexLayout,adopt,Techniques & Tools,TRUE
+FreeIPA,trial,Platform & Infrastructure,FALSE
+GitLab,adopt,Platform & Infrastructure,TRUE
+gloo,adopt,Platform & Infrastructure,TRUE
+Golang,adopt,Languages & Frameworks,TRUE
+Google BigQuery,adopt,Data Management,TRUE
+Grafana,adopt,Platform & Infrastructure,TRUE
+Graphite,adopt,Platform & Infrastructure,TRUE
+GraphQL,adopt,Techniques & Tools,TRUE
+GraphQL Apollo,adopt,Techniques & Tools,TRUE
+GraphQL Apollo Federation,adopt,Platform & Infrastructure,TRUE
+Greenplum,adopt,Data Management,TRUE
+gRPC,adopt,Languages & Frameworks,TRUE
+Hadoop,adopt,Platform & Infrastructure,TRUE
+HAproxy,adopt,Platform & Infrastructure,TRUE
+Helm,adopt,Techniques & Tools,TRUE
+Hierra Puppet,adopt,Platform & Infrastructure,TRUE
+Hive,adopt,Data Management,TRUE
+Hue,adopt,Platform & Infrastructure,TRUE
+Jaeger,trial,Platform & Infrastructure,TRUE
+Java,hold,Languages & Frameworks,TRUE
+Jenkins,adopt,Platform & Infrastructure,FALSE
+Jetpack Compose,trial,Languages & Frameworks,TRUE
+JEXL,adopt,Languages & Frameworks,FALSE
+Jira,hold,Techniques & Tools,TRUE
+JMeter,adopt,Techniques & Tools,FALSE
+Jupyter,adopt,Languages & Frameworks,TRUE
+Kafka,adopt,Data Management,TRUE
+Kotlin,adopt,Languages & Frameworks,TRUE
+Kubernetes,adopt,Platform & Infrastructure,TRUE
+MagicalRecord,adopt,Data Management,TRUE
+MogileFS,hold,Data Management,TRUE
+MongoDB,adopt,Data Management,TRUE
+MonoRepo,adopt,Techniques & Tools,TRUE
+Multi-module architecture,adopt,Techniques & Tools,TRUE
+MVI,adopt,Techniques & Tools,TRUE
+Nexus,adopt,Platform & Infrastructure,TRUE
+Nginx,adopt,Platform & Infrastructure,FALSE
+Objective-C,hold,Languages & Frameworks,TRUE
+OkHttp,adopt,Techniques & Tools,FALSE
+OpenCV,trial,Techniques & Tools,FALSE
+Openstack,hold,Platform & Infrastructure,TRUE
+PHP,hold,Languages & Frameworks,FALSE
+PinLayout,adopt,Techniques & Tools,TRUE
+PostgreSQL,hold,Data Management,TRUE
+Prometheus,adopt,Platform & Infrastructure,TRUE
+Puppet,adopt,Platform & Infrastructure,TRUE
+Python,adopt,Languages & Frameworks,TRUE
+React,hold,Languages & Frameworks,TRUE
+Redis,adopt,Data Management,TRUE
+Redux,adopt,Languages & Frameworks,TRUE
+RestKit,hold,Techniques & Tools,TRUE
+RPM,adopt,Platform & Infrastructure,TRUE
+RxJava,adopt,Techniques & Tools,TRUE
+RxSwift,hold,Techniques & Tools,TRUE
+Scala,adopt,Languages & Frameworks,TRUE
+Selenide,adopt,Languages & Frameworks,TRUE
+Selenium,adopt,Languages & Frameworks,FALSE
+Selenoid,adopt,Techniques & Tools,FALSE
+Sentry,adopt,Platform & Infrastructure,TRUE
+Silex,adopt,Languages & Frameworks,TRUE
+Slack,trial,Techniques & Tools,TRUE
+SonarQube,trial,Techniques & Tools,FALSE
+Spark,adopt,Languages & Frameworks,TRUE
+Spring,adopt,Languages & Frameworks,FALSE
+SQLite,hold,Data Management,TRUE
+Swift,adopt,Languages & Frameworks,TRUE
+Tableau,adopt,Data Management,TRUE
+Talaiot,adopt,Techniques & Tools,TRUE
+Tarantool,adopt,Data Management,TRUE
+Terraform,trial,Platform & Infrastructure,TRUE
+Typescript,adopt,Languages & Frameworks,TRUE
+Ubuntu,hold,Platform & Infrastructure,FALSE
+Vaadin,adopt,Languages & Frameworks,FALSE
+Vault,adopt,Platform & Infrastructure,FALSE
+Victoria Metrics,adopt,Data Management,TRUE
+VIPER,adopt,Techniques & Tools,TRUE
+VKCS,trial,Platform & Infrastructure,TRUE
+ZooKeeper,adopt,Data Management,TRUE
